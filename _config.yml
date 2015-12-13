@@ -1,0 +1,28 @@
+name: Hike Fly Competition
+favicon: null
+layout_spectrum: 0.3714388394728303
+typography_spectrum: 0.22727132798172534
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9060219372622669
+  lightness: 0.7872584138531238
+  saturation: 0.6116397224832326
+  rhythmicContrast: 0.5948171222116798
+purpose: []
